@@ -7,14 +7,19 @@ class Stuff extends Component {
         <h2>Menu</h2>
         <p>We have a lot of excellent choices to chose from when it comes to your Thai cuisine experience. Please select from the list below. </p>
         <ul>
+        <img src="TomYumSoup.jpg" alt="Tom Yum Soup" height="300" width="300"/>>
           <li><b>Tom Yum Soup</b>
           <p>A signature Thai soup, the broth is flavored with lemon grass, mushrooms, tomatoes and your choice of chicken or shrimp</p></li>
+          <img src="SpringRolls.jpg" alt="Spring Rolls" height="300" width="300"/>
           <li><b>Golden Spring Rolls</b>
           <p>A classic starter, our crispy vegetable rolls are filled with celery, carrots, cabbage and cellophane noodle and are served with sweet and sour sauce. (4 Pieces)</p></li>
+          <img src="RotiCurry.jpg" alt="Roti" height="300" width="300"/>
           <li><b>Roti Kanai w/ Yellow Curry Chicken</b>
           <p>Yellow chicken curry made with potatoes and carrots served with grilled roti bread for dipping</p></li>
+          <img src="Tilapia.jpg" alt="Tilapia" height="300" width="300"/>
           <li><b>Thai Chili Tilapia</b>
           <p>Fresh crispy Tilapia filet served over a bed of steamed mixed vegetables with Thai style chili sauce on top</p></li>
+          <img src="panangcurry.jpg" alt="Panang Curry" height="300" width="300"/>
           <li><b>Panang Curry</b>
           <p>A Thai comfort food, this curry dish is made with your choice of meat simmered in a savory curried peanuts sauce with coconut milk and aromatic kaffir lime leaves served with a side of steamed broccoli</p></li>
         </ul>
