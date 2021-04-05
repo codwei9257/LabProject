@@ -5,11 +5,16 @@ class Order extends Component {
     return (
         <div>
             <p>If you would like to order online, please go to the following third-party sites and get hot, authentic Thai food delivered straight to your door!</p>
-            <ul>
-                <li><a href="https://www.doordash.com">Door Dash</a></li>
-                <li><a href="https://www.grubhub.com">GrubHub</a></li>
-                <li><a href="https://www.orderup.com">OrderUp!</a></li>
-                </ul>
+            <table align="center">
+                <tr>
+                    <td>
+                        <a href="https://www.doordash.com"><img src="DoorDash.png" alt="DoorDash" width="300" height="300"/></a>
+                    </td>
+                    <td>
+                    <a href="https://www.grubhub.com"><img src="GrubHub.png" alt="GrubHub" width="300" height="300"/></a>
+                    </td>
+                </tr>
+            </table>
                 </div>
     )
   }
