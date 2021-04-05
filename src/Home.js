@@ -4,7 +4,6 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <img src="thaifood.jpg" alt="Thai Food" width="1260" class="center"/>
         <p>You have come to the right place for authentic Thai food. Here you will find fresh, delicious, high quality Thai food that is never cooked with MSG and always prepared just as spicy as you like it by our expert chef from Thailand.
 </p>
  
